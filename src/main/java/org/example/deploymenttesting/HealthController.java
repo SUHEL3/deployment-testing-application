@@ -10,7 +10,7 @@ public class HealthController {
 
     @GetMapping
     public String check(){
-        return "Server running ....... cool";
+        return "Server running ....... hosted from repo2cloud";
     }
 
 }
